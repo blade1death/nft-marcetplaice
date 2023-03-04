@@ -1,6 +1,6 @@
-# NFT Marketplace
+# My web project
 
-An NFT Marketplace Website UI
+
 
 ## Tools / Libraries
 
